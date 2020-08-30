@@ -1,0 +1,5 @@
+.env
+.certbot
+.dbdata
+.docker
+*.swp
